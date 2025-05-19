@@ -1,9 +1,9 @@
-**Multimodal Human-Robot Teaching Dataset**
+**Multimodal Human-Robot Teaching Dataset**:
 This dataset captures multimodal interaction data collected during a study on teaching robots through human demonstration. The data includes eye tracking, motion tracking, robot trajectory, and subjective evaluations from participants performing structured teaching tasks under different feedback conditions.
 
 
 
-**Experiment Overview**
+**Experiment Overview**:
 Participants(N=28) were asked to perform Pick-and-Place and Sliding tasks using a teaching-by-demonstration interface in a controlled experimental setup. Each participant experienced one of four feedback conditions:
 No Feedback-NF (Control)
 Visual Feedback-VF
@@ -18,7 +18,7 @@ MotionTracking/: Motion capture data
 
 
 
-**Use Case**
+**Use Case**:
 This dataset can support research in:
 Human-robot interaction
 Cognitive load estimation
@@ -26,7 +26,7 @@ Programming-by-demonstration systems
 Eye tracking analysis
 Multimodal machine learning
 
-**License**
+**License**:
 This dataset is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 
