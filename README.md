@@ -1,3 +1,15 @@
+**Summary**: This dataset was collected as part of the CISC (Collaborative Intelligence for Safety-Critical Systems) project under the Marie Skłodowska-Curie ITN programme. The data supports research in human-machine interaction and programming by demonstration in safety-critical environments.
+
+It contains multimodal recordings, including eye-tracking data, human posture information (captured via a vision-based system), robot trajectory data, and questionnaire responses related to usability and cognitive load.
+
+The dataset was collected through experiments involving human participants performing teaching tasks with a collaborative robot. All data has been anonymized in line with ethical approvals and is suitable for analysis in human factors, ergonomics, computer vision, and AI feedback systems.
+
+This dataset can be used for academic research in machine learning, human-robot collaboration, and system evaluation studies.
+
+Please cite this dataset if used in publications. Funding for this work was provided by the EU Horizon 2020 programme under Grant Agreement No.955901
+
+
+
 **Multimodal Human-Robot Teaching Dataset**:
 This dataset captures multimodal interaction data collected during a study on teaching robots through human demonstration. The data includes eye tracking, motion tracking, robot trajectory, and subjective evaluations from participants performing structured teaching tasks under different feedback conditions.
 
